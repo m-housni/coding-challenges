@@ -20,4 +20,4 @@ Boolean hasInfiniteloop(String code) {
 * Difficulty: 3
 * Used algorithms:
   * alg 1
-* 
+* https://github.com/m-housni/coding-challenges/blob/main/diffuculty_3/hasInfiniteLoop.java
