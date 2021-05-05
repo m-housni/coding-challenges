@@ -11,11 +11,11 @@ Given a list of integers and a target integer this function will return the inde
 
 ## hasInfiniteLoop
 Write a function which takes a peice of code as input and returns true if the program has an infinite loop and false otherwise.
-`
+```
 Boolean hasInfiniteloop(String program) {
   //
 }
-`
+```
 * Language: java
 * Difficulty: 3
 * Used algorithms:
