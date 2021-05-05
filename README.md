@@ -7,7 +7,7 @@ Given a list of integers and a target integer this function will return the inde
 * Used algorithms: 
   * linear search: O(n)
   * binary search: O(log n)
-* https://github.com/m-housni/coding-challenges/blob/main/difficulty_0/python/findTarget.py
+* https://github.com/m-housni/coding-challenges/tree/main/difficulty_0/findTarget
 
 ## hasInfiniteLoop
 Write a function which takes a peice of code as input and returns true if the program has an infinite loop and false otherwise.
@@ -20,7 +20,7 @@ Boolean hasInfiniteloop(String code) {
 * Difficulty: 3
 * Used algorithms:
   * alg 1
-* https://github.com/m-housni/coding-challenges/blob/main/diffuculty_3/hasInfiniteLoop.java
+* https://github.com/m-housni/coding-challenges/tree/main/diffuculty_3/hasInfiniteLoop
 
 ## searchSubArraysSumsToK
 Given an array of integers and an integer k, you need to find the total number of continuous subarrays whose sum equals k.
@@ -38,4 +38,4 @@ Given an array of integers and an integer k, you need to find the total number o
   * N-p+1 continuous subarrays of p items
   * ...
   * 1 continuous subarrays of N items
-* https://github.com/m-housni/coding-challenges/blob/main/diffuculty_2/searchSubArraysSumsToK.html
+* https://github.com/m-housni/coding-challenges/tree/main/diffuculty_2/searchSubArraysSumsToK
