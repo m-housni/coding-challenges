@@ -16,3 +16,4 @@ Boolean hasInfiniteloop(String code) {
 ## searchSubArraysSumsToK (D2)
 Given an array of integers and an integer k, you need to find the total number of continuous subarrays whose sum equals k.
 * https://github.com/m-housni/coding-challenges/tree/main/diffuculty_2/searchSubArraysSumsToK
+* https://codepen.io/m-housni/pen/RwGvNrZ
