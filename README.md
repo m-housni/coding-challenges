@@ -17,7 +17,7 @@ Boolean hasInfiniteloop(String code) {
 }
 ```
 * Language: java
-* Difficulty: 3
+* Difficulty: 33
 * Used algorithms:
   * alg 1
 * https://github.com/m-housni/coding-challenges/blob/main/diffuculty_3/hasInfiniteLoop.java
