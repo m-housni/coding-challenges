@@ -5,4 +5,4 @@ Given a list of integers and a target integer this function will return the inde
 * Used algorithms: 
   * linear search: O(n)
   * binary search: O(log n)
-* link: https://github.com/m-housni/coding-challenges/blob/main/python/findTarget.py
+* https://github.com/m-housni/coding-challenges/blob/main/python/findTarget.py
