@@ -1,6 +1,9 @@
-// If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
-// Find the sum of all the multiples of 3 or 5 below 1000.
-// N=1000
+/*
+If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
+Find the sum of all the multiples of 3 or 5 below 1000.
+N=1000
+run: node fileName.js to check
+*/
 
   // unique values in array
   Array.prototype.unique = function() {
@@ -24,6 +27,7 @@
     return sum
   };
 
+// the magic goes here
 function multiplesThreeFive(N) {
 
   let mThree = []
@@ -49,4 +53,5 @@ function multiplesThreeFive(N) {
   return m.sum()
 }
 
+// run it node fileName.js
 console.log(multiplesThreeFive(10000))
