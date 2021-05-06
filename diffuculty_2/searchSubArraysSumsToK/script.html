@@ -8,26 +8,37 @@
 <body>
 
   <h1>Inputs</h1>
+  <!-- form to get the params:  list length, from, to, k -->
   <form>
-    <input id="len" type="number" placeholder="list length">
+    <input id="len" type="number" placeholder="list length"> 
     <input id="from" type="number" placeholder="from">
     <input id="to" type="number" placeholder="to">
     <input id="k" type="number" placeholder="k">
+
+    <!-- When the user clicks Go, the search function handles the magic -->
     <span class="mt-1 btn btn-sm btn-light" onclick="search();">Go</span>
   </form>  
+
+  <!-- Div where to render the list -->
   <h1>Random List</h1>
   <div id="list"></div>
+
+  <!-- Div where to show the result -->
   <h1>Results</h1>
   <div id="result"></div>
 
   <script>
+
+
     function search() {
+
+        // get the params from the inputs
         let len = parseInt($('#len').val());
         let from = parseInt($('#from').val());
         let to = parseInt($('#to').val());
         let k = parseInt($('#k').val());
-        let sign = k < 0 ? -1 : 1;
-        // generate the list
+
+        // generate random list
         $('#list').text('');
         let list = [];
         for (i = 0; i < len; i++) {
@@ -36,10 +47,25 @@
           $('#list').append(ran + ', ');
         }
 
+        // magic
+        // ***** list example len=5
+        // p=2, i=0,3
+        // **
+        //  **
+        //   **
+        //    **
+        // p=3, i=0,2
+        // ***
+        //  ***
+        //   ***
+        // p=4, i=0,1
+        // ****
+        //  ****
+        
         let sum = 0;
         let result = 0;
-
-        for (p = 2; p <= len; p++) {
+        
+        for (p = 2; p <= len; p++) { 
           for (i = 0; i < len - p + 1; i++) {
             sum = 0;
             for (j = i; j < i + p; j++) {
@@ -48,8 +74,11 @@
             if (sum == k) result++;
           }
         }
+
+        // render results
         $('#result').text('');
         $('#result').append(result);
+
       }
   </script>
 </body>
