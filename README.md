@@ -1,4 +1,5 @@
 # Coding Challenges
+A list of coding challenges I've solved in different languages
 
 ## findTarget (D0)
 Given a list of integers and a target integer this function will return the index of the target if it exists or None (null in python)
