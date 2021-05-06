@@ -16,8 +16,6 @@ A list of coding challenges I've solved in different languages
 * Answer: 233168
 * https://github.com/m-housni/coding-challenges/blob/main/D1/multiplesThreeFive.js
 
-* https://github.com/m-housni/coding-challenges/blob/main/D1/multiplesThreeFive.js
-
 ## findTarget (D0)
 Given a list of integers and a target integer this function will return the index of the target if it exists or None (null in python)
 * https://github.com/m-housni/coding-challenges/tree/main/difficulty_0/findTarget
