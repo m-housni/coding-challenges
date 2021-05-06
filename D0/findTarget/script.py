@@ -35,6 +35,13 @@ def fintTargetLog(list,target):
   else:
     return None
 
+"""
+logarithmic space
+algo: recursif
+"""
+def findTargetRec(list,target):
+
+
 list = [1,2,3,4,5,6,7,8]
 target = 3
 print(fintTargetLog(list,target))
