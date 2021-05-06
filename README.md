@@ -14,6 +14,7 @@ A list of coding challenges I've solved in different languages
 * The sum of these multiples is 23.
 * (?) Find the sum of all the multiples of 3 or 5 below 1000.
 * Answer: 233168
+* https://github.com/m-housni/coding-challenges/blob/main/D1/multiplesThreeFive.js
 
 * https://github.com/m-housni/coding-challenges/blob/main/D1/multiplesThreeFive.js
 
