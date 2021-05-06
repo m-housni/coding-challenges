@@ -8,6 +8,7 @@ A list of coding challenges I've solved in different languages
 ## Multiples of p and q (D1)
 * If we list all the natural numbers below N that are multiples of p or q. 
 * (?) Find the sum of all the multiples of p or q below N.
+* https://github.com/m-housni/coding-challenges/blob/main/D1/multiplesPnQ.js
 
 ## Multiples of 3 and 5 (D1)
 * If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. 
