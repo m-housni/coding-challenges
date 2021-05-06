@@ -36,12 +36,24 @@ def fintTargetLog(list,target):
     return None
 
 """
-logarithmic space
 algo: recursif
+test not passed
 """
-def findTargetRec(list,target):
+def findTargetRec(list,target,left,right):
+  # find middle
+  middle = (left+right)//2
+  # check no more elements
+  if left>right:
+    return -1
+  # check = taget
+  if list[middle]==target:
+    return middle
+  # recursive call: left to middle
+  if list[middle]>target:
+    findTargetRec(list,target,left,middle-1)
+  # recursive call: middle to right
+  if list[middle]<target:
+    findTargetRec(list,target,middle+1,right)
+  return -100
 
-
-list = [1,2,3,4,5,6,7,8]
-target = 3
-print(fintTargetLog(list,target))
+print(findTargetRec([1,2,3],3,0,2))
