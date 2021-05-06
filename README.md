@@ -6,11 +6,6 @@ Given a list of integers and a target integer this function will return the inde
 
 ## hasInfiniteLoop (D3)
 Write a function which takes a peice of code as input and returns true if the program has an infinite loop and false otherwise.
-```
-Boolean hasInfiniteloop(String code) {
-  //
-}
-```
 * https://github.com/m-housni/coding-challenges/tree/main/diffuculty_3/hasInfiniteLoop
 
 ## searchSubArraysSumsToK (D2)
