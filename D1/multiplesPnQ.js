@@ -32,14 +32,14 @@ function multiplesPnQ(p,q,N) {
   let mQ = []
   let m = []
 
-  // multiples of 3 smaller than N
+  // multiples of p smaller than N
   let i=1
   while (p * i < N) {
     mP.push(p * i)
     i++
   }
 
-  // multiples of 5 smaller than N
+  // multiples of q smaller than N
   let j=1
   while (q * j < N) {
     mQ.push(q * j)
