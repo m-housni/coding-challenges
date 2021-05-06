@@ -13,7 +13,7 @@ Given an array of integers and an integer k, you need to find the total number o
 * https://github.com/m-housni/coding-challenges/tree/main/diffuculty_2/searchSubArraysSumsToK
 * https://codepen.io/m-housni/pen/RwGvNrZ
 
-## Sorting algorithms
+## sortingAlgorithms (D2)
 1. Bubble sort
 2. Selection sort
 3. permultation tri
