@@ -12,3 +12,12 @@ Write a function which takes a peice of code as input and returns true if the pr
 Given an array of integers and an integer k, you need to find the total number of continuous subarrays whose sum equals k.
 * https://github.com/m-housni/coding-challenges/tree/main/diffuculty_2/searchSubArraysSumsToK
 * https://codepen.io/m-housni/pen/RwGvNrZ
+
+## Sorting algorithms
+1. Bubble sort
+2. Selection sort
+3. permultation tri
+4. Insertion sort
+5. Merge sort
+6. Quick sort
+* https://github.com/m-housni/coding-challenges/tree/main/D2/sortingAlgorithms
