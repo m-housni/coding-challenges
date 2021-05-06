@@ -54,4 +54,4 @@ function multiplesThreeFive(N) {
 }
 
 // run it node fileName.js
-console.log(multiplesThreeFive(10000))
+console.log(multiplesThreeFive(1000))
