@@ -1,5 +1,9 @@
 # Coding Challenges
 A list of coding challenges I've solved in different languages
+1. D0: basic
+2. D1: easy
+3. D2: hard
+4. D3: very hard
 
 ## Multiples of p and q (D1)
 * If we list all the natural numbers below N that are multiples of p or q. 
