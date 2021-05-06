@@ -17,7 +17,7 @@ Given an array of integers and an integer k, you need to find the total number o
 ## sortingAlgorithms (D2)
 1. Bubble sort
 2. Selection sort
-3. permultation tri
+3. Swap sort
 4. Insertion sort
 5. Merge sort
 6. Quick sort
