@@ -2,6 +2,7 @@
 
 #define TRUE 1
 #define FALSE 0
+
 void tri_a_bulle(int *t, int n)
 {
  int j = 0;
