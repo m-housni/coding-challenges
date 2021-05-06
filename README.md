@@ -5,6 +5,10 @@ A list of coding challenges I've solved in different languages
 3. D2: hard
 4. D3: very hard
 
+## Project Euler
+* https://projecteuler.net/archives
+* Done: 1,2,3
+
 ## Largest prime factor
 * The prime factors of 13195 are 5, 7, 13 and 29.
 * What is the largest prime factor of the number 600851475143 ?
