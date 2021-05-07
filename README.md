@@ -12,7 +12,7 @@ A list of coding challenges I've solved in different languages
 ## 10001st prime
 * By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
 * What is the 10 001st prime number?
-* 
+* https://github.com/m-housni/coding-challenges/blob/main/D1/prime10001.py
 
 ## Sum square difference (D0)
 * The sum of the squares of the first ten natural numbers is,1^2+2^2+...+10^2 = 385
