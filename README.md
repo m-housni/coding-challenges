@@ -11,12 +11,12 @@ A list of coding challenges I've solved in different languages
 
 ## is Pelindrom (D0)
 * example pelindroms: 121, 33, 3223, 435534
-* 
+* https://github.com/m-housni/coding-challenges/blob/main/D0/isPelindrom.py
 
 ## Number to array (D0)
 * Covert an integer to an array
 * Example: 123 => [1,2,3], 4354 => [4,3,5,4]
-* 
+* https://github.com/m-housni/coding-challenges/blob/main/D0/numberToArray.py
 
 ## Largest palindrome product
 * A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
