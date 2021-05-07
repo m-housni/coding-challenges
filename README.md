@@ -12,7 +12,7 @@ A list of coding challenges I've solved in different languages
 ## Smallest multiple 
 * 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
 * What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
-* 
+* https://github.com/m-housni/coding-challenges/blob/main/D1/smallestMultiple.js
 
 ## is Pelindrom (D0)
 * example pelindroms: 121, 33, 3223, 435534
