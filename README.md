@@ -10,11 +10,12 @@ A list of coding challenges I've solved in different languages
 * Problems solved: 1,2,3,4,5,6,7,8
 
 ## Special Pythagorean triplet
-*A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
-*a2 + b2 = c2
-*For example, 32 + 42 = 9 + 16 = 25 = 52.
-*There exists exactly one Pythagorean triplet for which a + b + c = 1000.
+* A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
+* a2 + b2 = c2
+* For example, 32 + 42 = 9 + 16 = 25 = 52.
+* There exists exactly one Pythagorean triplet for which a + b + c = 1000.
 Find the product abc.
+* https://github.com/m-housni/coding-challenges/blob/main/D1/specialPhytagorianTriplet.py
 
 ## Is given number prime (D0)
 * examples:
