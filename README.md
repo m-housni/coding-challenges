@@ -7,12 +7,12 @@ A list of coding challenges I've solved in different languages
 
 ## Project Euler
 * https://projecteuler.net/archives
-* Done: 1,2,3
+* Done: 1,2,3,4
 
 ## Largest palindrome product
 * A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
 * Find the largest palindrome made from the product of two 3-digit numbers.
-* 
+* https://github.com/m-housni/coding-challenges/blob/main/D1/largestPelindromProduct.py
 
 ## Largest prime factor
 * The prime factors of 13195 are 5, 7, 13 and 29.
