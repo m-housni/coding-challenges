@@ -7,7 +7,7 @@ A list of coding challenges I've solved in different languages
 
 ## Project Euler
 * https://projecteuler.net/archives
-* Problems solved: 1,2,3,4,5,6,7
+* Problems solved: 1,2,3,4,5,6,7,8
 
 ## Largest product in a series
 * The four adjacent digits in the 1000-digit number that have the greatest product are 9 × 9 × 8 × 9 = 5832.
