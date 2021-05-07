@@ -9,6 +9,15 @@ A list of coding challenges I've solved in different languages
 * https://projecteuler.net/archives
 * Done: 1,2,3,4
 
+## is Pelindrom (D0)
+* example pelindroms: 121, 33, 3223, 435534
+* 
+
+## Number to array (D0)
+* Covert an integer to an array
+* Example: 123 => [1,2,3], 4354 => [4,3,5,4]
+* 
+
 ## Largest palindrome product
 * A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
 * Find the largest palindrome made from the product of two 3-digit numbers.
