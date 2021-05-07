@@ -13,7 +13,7 @@ A list of coding challenges I've solved in different languages
 * examples:
 * isPrime(10) # false
 * isPrime(13) # true
-
+* https://github.com/m-housni/coding-challenges/blob/main/D0/isPrime.py
 
 ## Largest product in a series
 * The four adjacent digits in the 1000-digit number that have the greatest product are 9 × 9 × 8 × 9 = 5832.
