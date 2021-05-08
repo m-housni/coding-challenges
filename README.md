@@ -7,7 +7,12 @@ A list of coding challenges I've solved in different languages
 
 ## Project Euler
 * https://projecteuler.net/archives
-* Problems solved: 1,2,3,4,5,6,7,8
+* Problems solved: 1,2,3,4,5,6,7,8,9,10
+
+## Summation of primes
+* The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
+* Find the sum of all the primes below two million.
+* 
 
 ## Special Pythagorean triplet
 * A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
