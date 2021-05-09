@@ -21,7 +21,7 @@ namespace Rextester
             
         }
         
-        // if p divisor of n => p<=Vn
+        // if p divisor of n => p<=sqrt(n)
         static bool isPrime(int a){
             for(int i = 2; i<=Math.Sqrt(a); i++) 
                 if (a % i == 0) 
