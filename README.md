@@ -11,7 +11,7 @@ In the 20×20 grid below, four numbers along a diagonal line have been marked in
 
 ## Project Euler
 * https://projecteuler.net/archives
-![grid](https://github.com/m-housni/coding-challenges/blob/main/files/grid.jpg,"grid")
+![grid](https://github.com/m-housni/coding-challenges/blob/main/files/grid.jpg "grid")
 * Problems solved: 1,2,3,4,5,6,7,8,9,10
 * The product of these numbers is 26 × 63 × 78 × 14 = 1788696.
 
