@@ -12,7 +12,7 @@ A list of coding challenges I've solved in different languages
 ## Summation of primes
 * The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
 * Find the sum of all the primes below two million.
-* 
+* https://github.com/m-housni/coding-challenges/blob/main/D1/sumOfPrimes.py
 
 ## Special Pythagorean triplet
 * A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
