@@ -5,15 +5,15 @@ A list of coding challenges I've solved in different languages
 3. D2: hard
 4. D3: very hard
 
-## Largest product in a grid
-In the 20×20 grid below, four numbers along a diagonal line have been marked in red.
-
-
 ## Project Euler
 * https://projecteuler.net/archives
-* ![grid](https://github.com/m-housni/coding-challenges/blob/main/files/grid.jpg "grid")
 * Problems solved: 1,2,3,4,5,6,7,8,9,10
+
+## Largest product in a grid
+* In the 20×20 grid below, four numbers along a diagonal line have been marked in red.
+* ![grid](https://github.com/m-housni/coding-challenges/blob/main/files/grid.jpg "grid")
 * The product of these numbers is 26 × 63 × 78 × 14 = 1788696.
+* What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid?
 
 What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid?*
 ## Summation of primes
