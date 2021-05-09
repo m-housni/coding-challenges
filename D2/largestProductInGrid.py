@@ -49,7 +49,7 @@ def extractNupletsFromGrid(grid,n):
   nuplets = []
   row = len(grid)
   cols = len(grid[0])
-  #....
+  #.... <======================================================================================== HERE
   return nuplets
 
 # largest product of adjacent n numbers in a diagonal k
