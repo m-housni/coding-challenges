@@ -14,6 +14,7 @@ A list of coding challenges I've solved in different languages
 * ![grid](https://github.com/m-housni/coding-challenges/blob/main/files/grid.jpg "grid")
 * The product of these numbers is 26 × 63 × 78 × 14 = 1788696.
 * What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid?
+* https://github.com/m-housni/coding-challenges/blob/main/D2/largestProductInGrid.py
 
 What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid?*
 ## Summation of primes
