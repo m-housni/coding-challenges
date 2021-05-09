@@ -5,10 +5,17 @@ A list of coding challenges I've solved in different languages
 3. D2: hard
 4. D3: very hard
 
+## Largest product in a grid
+In the 20×20 grid below, four numbers along a diagonal line have been marked in red.
+
+
 ## Project Euler
 * https://projecteuler.net/archives
-* Problems solved: 1,2,3,4,5,6,7,8,9,10
 
+* Problems solved: 1,2,3,4,5,6,7,8,9,10
+* The product of these numbers is 26 × 63 × 78 × 14 = 1788696.
+
+What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid?*
 ## Summation of primes
 * The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
 * Find the sum of all the primes below two million.
