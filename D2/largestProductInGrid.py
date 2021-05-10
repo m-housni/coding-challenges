@@ -7,6 +7,7 @@
 """
 
 import random
+import numpy as np
 
 # create a grid
 def createGrid(n, p):
