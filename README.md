@@ -22,7 +22,7 @@ A list of coding challenges I've solved in different languages
 * 28: 1,2,4,7,14,28
 * We can see that 28 is the first triangle number to have over five divisors.
 * What is the value of the first triangle number to have over five hundred divisors?
-*
+* https://github.com/m-housni/coding-challenges/blob/main/D2/highlyDivisibleTriangularNumber.py
 
 ## Largest product in a grid
 * In the 20×20 grid below, four numbers along a diagonal line have been marked in red.
