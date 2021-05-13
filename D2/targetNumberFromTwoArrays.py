@@ -1,3 +1,5 @@
+# credit: https://www.youtube.com/watch?v=GBuHSRDGZBY
+
 # a1 and a2 are the given lists, and target is the target sum.
 # The output should be a tuple of two integers, one from each array.
 def closest_sum_pair(a1, a2, target):
