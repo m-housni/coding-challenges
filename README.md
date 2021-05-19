@@ -18,7 +18,7 @@ A list of coding challenges I've solved in different languages
 * It can be seen that this sequence (starting at 13 and finishing at 1) contains 10 terms. Although it has not been proved yet (Collatz Problem), it is * thought that all starting numbers finish at 1.
 * Which starting number, under one million, produces the longest chain?
 * NOTE: Once the chain starts the terms are allowed to go above one million.
-* 
+* n/2 = 1 => n=2 , n/2=2 => n=4 , n=8 or n=1, n = 16, n=32 or n=5 => n=64 
 
 ## Target number from two arrays
 * example: given two arrays of same length:
