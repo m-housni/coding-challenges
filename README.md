@@ -151,3 +151,9 @@ Given an array of integers and an integer k, you need to find the total number o
 5. Merge sort
 6. Quick sort
 * https://github.com/m-housni/coding-challenges/tree/main/D2/sortingAlgorithms
+
+## isSubsequentArray (D2)
+Given two arrays of integers arr1 and arr2, arr2 is subsequent array of arr1 if arr1 includes all elements of arr2 in the same order but not necessarily adjacent.
+
+Example:
+[2,0,4] is subsequent array of [1,2,3,0,4]
